@@ -1,0 +1,6 @@
+3 rows  3 columns all @ go
+5 columns 6  rows go
+5 rows triangular go
+alphabetical 3 rows 3 columns go
+all ! 4 rows 4 columns outer go
+alphabetical outer triangular 5 rows  go
